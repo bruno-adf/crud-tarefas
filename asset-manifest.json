@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/crud-tarefas/static/css/main.073c9b0a.css",
+    "main.js": "/crud-tarefas/static/js/main.fea9ae43.js",
+    "static/js/787.5fa18d66.chunk.js": "/crud-tarefas/static/js/787.5fa18d66.chunk.js",
+    "static/media/logo.svg": "/crud-tarefas/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/crud-tarefas/index.html",
+    "main.073c9b0a.css.map": "/crud-tarefas/static/css/main.073c9b0a.css.map",
+    "main.fea9ae43.js.map": "/crud-tarefas/static/js/main.fea9ae43.js.map",
+    "787.5fa18d66.chunk.js.map": "/crud-tarefas/static/js/787.5fa18d66.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.fea9ae43.js"
+  ]
+}
